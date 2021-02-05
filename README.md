@@ -10,4 +10,4 @@ Flutter Quiz é um app de quiz feito somente com Flutter. 😁👀
 **Meu primeiro e pequeno app realizado em Flutter.** \
 Aceito sugestões, dicas, críticas, etc. sobre qualquer assunto.
 
-**Um pequeno aprendiz nesse grande mundo da programação.**s
+**Um pequeno aprendiz nesse grande mundo da programação.**
